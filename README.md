@@ -1,5 +1,5 @@
 # apple-turicreate-examples
-Apple Turi Create Machine Learning and Artificial Neural Networks framework Examples
+Apple Turi Create Machine Learning Examples. Please refers to the [Turi Create](https://github.com/apple/turicreate) documentation for more info.
 
 ## Requirements
 You will need virtualenv to run this repo.
