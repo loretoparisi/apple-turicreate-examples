@@ -20,7 +20,7 @@ pip install -r requirements.txt
 To run the examples just install, enter the example folder and follow the instructions.
 
 ### Movies Recommender
-To train a movie database recommender.
+To train a movie database recommender. Apple Tutorial available [here](https://apple.github.io/turicreate/docs/userguide/recommender/)
 
 ```bash
 cd recommender/
